@@ -1,12 +1,6 @@
 # AIFFEL_project
 2021.12.27 ~ 2022.06.10
 
-
-## FUNDAMENTAL
-<hr>
-- 머신러닝, 딥러닝의 기본 이론 학습 <br>
-- 학습내용 정리 : https://velog.io/@j_hyun11
-
 ## EXPLORATION
 <hr>
 - 주제별 다양한 딥러닝 기본 모델 실습 및 과제 프로젝트 수행
